@@ -24,12 +24,14 @@ Commands for termux Setup
 
 9: pip install lolcat
 
-10: git clone 
+10: git clone https://github.com/CoD3R1337/CoD3R-Autopass
 
-13: cd CoD3R
+13: cd CoD3R-Autopass
 
 14: ls
 
-15: python2 Coder.py
+15: python2 Autopass.py
+
+Api key : CoD3R1337
 
 Enjoy
